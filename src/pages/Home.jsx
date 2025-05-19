@@ -7,7 +7,21 @@ export const Home = () => {
 
 	return (
 		<div className="text-center mt-5">
-			<h1>Hello Rigo!!</h1>
+
+<h2>Personajes</h2>
+
+
+<h2>Planetas</h2>
+
+
+<h2>Vehículos</h2>
+
+
+
+
+
+
+			<h2>Hello Rigo!!</h2>
 			<p>
 				<img src={rigoImageUrl} />
 			</p>
